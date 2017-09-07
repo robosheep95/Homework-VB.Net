@@ -1,0 +1,24 @@
+C:\Users\tds2\AppData\Local\Temporary Projects\CodePractice\bin\Debug\CodePractice.exe.config
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.exe.config
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.exe
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.pdb
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.xml
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.vbprojResolveAssemblyReference.cache
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.Form1.resources
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.Resources.resources
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.vbproj.GenerateResource.Cache
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.exe
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.xml
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.pdb
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.exe.config
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.exe
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.xml
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.exe
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.pdb
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\bin\Debug\CodePractice.xml
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.vbprojResolveAssemblyReference.cache
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.Resources.resources
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.vbproj.GenerateResource.Cache
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.pdb
+C:\Users\tds2\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.vbproj.CoreCompileInputs.cache
+C:\Users\scafe\Source\Repos\VS-CodePractice\CodePractice\CodePractice\obj\Debug\CodePractice.MainForm.resources
