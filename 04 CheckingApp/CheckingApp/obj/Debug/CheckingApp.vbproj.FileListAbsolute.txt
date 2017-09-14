@@ -9,3 +9,15 @@ C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug
 C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.exe
 C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.xml
 C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.pdb
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.frmMainMenu.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.Resources.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.vbproj.GenerateResource.Cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.vbproj.CoreCompileInputs.cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.exe
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.xml
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.exe.config
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.exe
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.pdb
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.xml
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.pdb
+C:\Users\tds2\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.vbprojResolveAssemblyReference.cache
