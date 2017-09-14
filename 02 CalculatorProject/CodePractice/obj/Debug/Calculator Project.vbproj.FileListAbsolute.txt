@@ -1,0 +1,11 @@
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\bin\Debug\CodePractice.exe.config
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\bin\Debug\CodePractice.exe
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\bin\Debug\CodePractice.pdb
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\bin\Debug\CodePractice.xml
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\CodePractice.MainForm.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\CodePractice.Resources.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\Calculator Project.vbproj.GenerateResource.Cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\Calculator Project.vbproj.CoreCompileInputs.cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\CodePractice.exe
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\CodePractice.xml
+C:\Users\tds2\Source\Repos\Homework-VB.Net\02 CalculatorProject\CodePractice\obj\Debug\CodePractice.pdb
