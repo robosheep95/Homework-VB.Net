@@ -1,0 +1,11 @@
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.exe.config
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.exe
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.pdb
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\bin\Debug\CheckingApp.xml
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.vbprojResolveAssemblyReference.cache
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.frmMainMenu.resources
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.Resources.resources
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.vbproj.GenerateResource.Cache
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.exe
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.xml
+C:\Users\scafe\Source\Repos\Homework-VB.Net\04 CheckingApp\CheckingApp\obj\Debug\CheckingApp.pdb
