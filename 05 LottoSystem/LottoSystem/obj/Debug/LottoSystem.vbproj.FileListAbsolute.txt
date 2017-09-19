@@ -1,0 +1,12 @@
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\bin\Debug\LottoSystem.exe.config
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\bin\Debug\LottoSystem.exe
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\bin\Debug\LottoSystem.pdb
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\bin\Debug\LottoSystem.xml
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.vbprojResolveAssemblyReference.cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.frmMain.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.Resources.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.vbproj.GenerateResource.Cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.vbproj.CoreCompileInputs.cache
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.exe
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.xml
+C:\Users\tds2\Source\Repos\Homework-VB.Net\05 LottoSystem\LottoSystem\obj\Debug\LottoSystem.pdb
