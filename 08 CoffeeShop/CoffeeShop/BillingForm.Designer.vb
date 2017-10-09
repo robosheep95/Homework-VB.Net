@@ -32,7 +32,7 @@ Partial Class frmMain
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.ItemAmountTextBox = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
@@ -43,12 +43,12 @@ Partial Class frmMain
         Me.RadioButton2 = New System.Windows.Forms.RadioButton()
         Me.RadioButton1 = New System.Windows.Forms.RadioButton()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.MenuStrip1.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -74,13 +74,13 @@ Partial Class frmMain
         'SaveToolStripMenuItem
         '
         Me.SaveToolStripMenuItem.Name = "SaveToolStripMenuItem"
-        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(98, 22)
+        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.SaveToolStripMenuItem.Text = "Save"
         '
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(98, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'EditToolStripMenuItem
@@ -93,7 +93,7 @@ Partial Class frmMain
         'ClearAllToolStripMenuItem
         '
         Me.ClearAllToolStripMenuItem.Name = "ClearAllToolStripMenuItem"
-        Me.ClearAllToolStripMenuItem.Size = New System.Drawing.Size(118, 22)
+        Me.ClearAllToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.ClearAllToolStripMenuItem.Text = "Clear All"
         '
         'GroupBox1
@@ -101,7 +101,7 @@ Partial Class frmMain
         Me.GroupBox1.Controls.Add(Me.Button2)
         Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Controls.Add(Me.CheckBox1)
-        Me.GroupBox1.Controls.Add(Me.TextBox2)
+        Me.GroupBox1.Controls.Add(Me.ItemAmountTextBox)
         Me.GroupBox1.Controls.Add(Me.Label2)
         Me.GroupBox1.Controls.Add(Me.TextBox1)
         Me.GroupBox1.Controls.Add(Me.Label1)
@@ -141,12 +141,12 @@ Partial Class frmMain
         Me.CheckBox1.Text = "Ta&keout"
         Me.CheckBox1.UseVisualStyleBackColor = True
         '
-        'TextBox2
+        'ItemAmountTextBox
         '
-        Me.TextBox2.Location = New System.Drawing.Point(80, 128)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox2.TabIndex = 4
+        Me.ItemAmountTextBox.Location = New System.Drawing.Point(80, 128)
+        Me.ItemAmountTextBox.Name = "ItemAmountTextBox"
+        Me.ItemAmountTextBox.Size = New System.Drawing.Size(100, 20)
+        Me.ItemAmountTextBox.TabIndex = 4
         '
         'Label2
         '
@@ -256,14 +256,35 @@ Partial Class frmMain
         Me.GroupBox3.TabIndex = 2
         Me.GroupBox3.TabStop = False
         '
-        'Label3
+        'TextBox5
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(8, 19)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(50, 13)
-        Me.Label3.TabIndex = 0
-        Me.Label3.Text = "SubTotal"
+        Me.TextBox5.Location = New System.Drawing.Point(116, 63)
+        Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox5.TabIndex = 5
+        '
+        'TextBox4
+        '
+        Me.TextBox4.Location = New System.Drawing.Point(116, 40)
+        Me.TextBox4.Name = "TextBox4"
+        Me.TextBox4.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox4.TabIndex = 4
+        '
+        'TextBox3
+        '
+        Me.TextBox3.Location = New System.Drawing.Point(116, 16)
+        Me.TextBox3.Name = "TextBox3"
+        Me.TextBox3.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox3.TabIndex = 3
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(8, 66)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(31, 13)
+        Me.Label5.TabIndex = 2
+        Me.Label5.Text = "Total"
         '
         'Label4
         '
@@ -274,35 +295,14 @@ Partial Class frmMain
         Me.Label4.TabIndex = 1
         Me.Label4.Text = "Tax (If Takeout)"
         '
-        'Label5
+        'Label3
         '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(6, 66)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(31, 13)
-        Me.Label5.TabIndex = 2
-        Me.Label5.Text = "Total"
-        '
-        'TextBox3
-        '
-        Me.TextBox3.Location = New System.Drawing.Point(116, 16)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox3.TabIndex = 3
-        '
-        'TextBox4
-        '
-        Me.TextBox4.Location = New System.Drawing.Point(116, 40)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox4.TabIndex = 4
-        '
-        'TextBox5
-        '
-        Me.TextBox5.Location = New System.Drawing.Point(116, 63)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox5.TabIndex = 5
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(8, 19)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(50, 13)
+        Me.Label3.TabIndex = 0
+        Me.Label3.Text = "SubTotal"
         '
         'frmMain
         '
@@ -338,7 +338,7 @@ Partial Class frmMain
     Friend WithEvents Button2 As Button
     Friend WithEvents Button1 As Button
     Friend WithEvents CheckBox1 As CheckBox
-    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents ItemAmountTextBox As TextBox
     Friend WithEvents Label2 As Label
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents Label1 As Label
