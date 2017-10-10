@@ -121,6 +121,9 @@
     <EmbeddedResource Include="Coffee Splash.resx">
       <DependentUpon>Coffee Splash.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="SummaryForm.resx">
+      <DependentUpon>SummaryForm.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="My Project\Application.myapp">

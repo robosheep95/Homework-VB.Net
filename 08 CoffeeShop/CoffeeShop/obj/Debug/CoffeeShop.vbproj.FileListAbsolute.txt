@@ -11,3 +11,17 @@ C:\Users\tds2\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\Co
 C:\Users\tds2\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
 C:\Users\tds2\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.SplashScreen1.resources
 C:\Users\tds2\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmMain.resources
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.xml
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.vbprojResolveAssemblyReference.cache
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.frmMain.resources
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Resources.resources
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.SplashScreen1.resources
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.vbproj.GenerateResource.Cache
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.vbproj.CoreCompileInputs.cache
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.xml
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.SummaryForm.resources
