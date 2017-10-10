@@ -29,12 +29,12 @@ Partial Class frmMain
         Me.EditToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ClearAllToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.CheckBox1 = New System.Windows.Forms.CheckBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.ClearButton = New System.Windows.Forms.Button()
+        Me.CalculateButton = New System.Windows.Forms.Button()
+        Me.TaxCheckBox = New System.Windows.Forms.CheckBox()
+        Me.ItemAmountTextBox = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.QuantityTextBox = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.RadioButton5 = New System.Windows.Forms.RadioButton()
@@ -43,12 +43,12 @@ Partial Class frmMain
         Me.RadioButton2 = New System.Windows.Forms.RadioButton()
         Me.RadioButton1 = New System.Windows.Forms.RadioButton()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
+        Me.TotalTextBox = New System.Windows.Forms.TextBox()
+        Me.TaxTextBox = New System.Windows.Forms.TextBox()
+        Me.SubTotalTextBox = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.MenuStrip1.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -98,12 +98,12 @@ Partial Class frmMain
         '
         'GroupBox1
         '
-        Me.GroupBox1.Controls.Add(Me.Button2)
-        Me.GroupBox1.Controls.Add(Me.Button1)
-        Me.GroupBox1.Controls.Add(Me.CheckBox1)
-        Me.GroupBox1.Controls.Add(Me.TextBox2)
+        Me.GroupBox1.Controls.Add(Me.ClearButton)
+        Me.GroupBox1.Controls.Add(Me.CalculateButton)
+        Me.GroupBox1.Controls.Add(Me.TaxCheckBox)
+        Me.GroupBox1.Controls.Add(Me.ItemAmountTextBox)
         Me.GroupBox1.Controls.Add(Me.Label2)
-        Me.GroupBox1.Controls.Add(Me.TextBox1)
+        Me.GroupBox1.Controls.Add(Me.QuantityTextBox)
         Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Controls.Add(Me.GroupBox2)
         Me.GroupBox1.Location = New System.Drawing.Point(12, 27)
@@ -113,40 +113,40 @@ Partial Class frmMain
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Order Information"
         '
-        'Button2
+        'ClearButton
         '
-        Me.Button2.Location = New System.Drawing.Point(105, 74)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 42)
-        Me.Button2.TabIndex = 7
-        Me.Button2.Text = "C&lear for Next Item"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.ClearButton.Location = New System.Drawing.Point(105, 74)
+        Me.ClearButton.Name = "ClearButton"
+        Me.ClearButton.Size = New System.Drawing.Size(75, 42)
+        Me.ClearButton.TabIndex = 7
+        Me.ClearButton.Text = "C&lear for Next Item"
+        Me.ClearButton.UseVisualStyleBackColor = True
         '
-        'Button1
+        'CalculateButton
         '
-        Me.Button1.Location = New System.Drawing.Point(11, 74)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 42)
-        Me.Button1.TabIndex = 6
-        Me.Button1.Text = "&Calculate Selection"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.CalculateButton.Location = New System.Drawing.Point(11, 74)
+        Me.CalculateButton.Name = "CalculateButton"
+        Me.CalculateButton.Size = New System.Drawing.Size(75, 42)
+        Me.CalculateButton.TabIndex = 6
+        Me.CalculateButton.Text = "&Calculate Selection"
+        Me.CalculateButton.UseVisualStyleBackColor = True
         '
-        'CheckBox1
+        'TaxCheckBox
         '
-        Me.CheckBox1.AutoSize = True
-        Me.CheckBox1.Location = New System.Drawing.Point(11, 49)
-        Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(66, 17)
-        Me.CheckBox1.TabIndex = 5
-        Me.CheckBox1.Text = "Ta&keout"
-        Me.CheckBox1.UseVisualStyleBackColor = True
+        Me.TaxCheckBox.AutoSize = True
+        Me.TaxCheckBox.Location = New System.Drawing.Point(11, 49)
+        Me.TaxCheckBox.Name = "TaxCheckBox"
+        Me.TaxCheckBox.Size = New System.Drawing.Size(66, 17)
+        Me.TaxCheckBox.TabIndex = 5
+        Me.TaxCheckBox.Text = "Ta&keout"
+        Me.TaxCheckBox.UseVisualStyleBackColor = True
         '
-        'TextBox2
+        'ItemAmountTextBox
         '
-        Me.TextBox2.Location = New System.Drawing.Point(80, 128)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox2.TabIndex = 4
+        Me.ItemAmountTextBox.Location = New System.Drawing.Point(80, 128)
+        Me.ItemAmountTextBox.Name = "ItemAmountTextBox"
+        Me.ItemAmountTextBox.Size = New System.Drawing.Size(100, 20)
+        Me.ItemAmountTextBox.TabIndex = 4
         '
         'Label2
         '
@@ -157,12 +157,12 @@ Partial Class frmMain
         Me.Label2.TabIndex = 3
         Me.Label2.Text = "Item Amount"
         '
-        'TextBox1
+        'QuantityTextBox
         '
-        Me.TextBox1.Location = New System.Drawing.Point(60, 23)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(120, 20)
-        Me.TextBox1.TabIndex = 2
+        Me.QuantityTextBox.Location = New System.Drawing.Point(60, 23)
+        Me.QuantityTextBox.Name = "QuantityTextBox"
+        Me.QuantityTextBox.Size = New System.Drawing.Size(120, 20)
+        Me.QuantityTextBox.TabIndex = 2
         '
         'Label1
         '
@@ -244,9 +244,9 @@ Partial Class frmMain
         '
         'GroupBox3
         '
-        Me.GroupBox3.Controls.Add(Me.TextBox5)
-        Me.GroupBox3.Controls.Add(Me.TextBox4)
-        Me.GroupBox3.Controls.Add(Me.TextBox3)
+        Me.GroupBox3.Controls.Add(Me.TotalTextBox)
+        Me.GroupBox3.Controls.Add(Me.TaxTextBox)
+        Me.GroupBox3.Controls.Add(Me.SubTotalTextBox)
         Me.GroupBox3.Controls.Add(Me.Label5)
         Me.GroupBox3.Controls.Add(Me.Label4)
         Me.GroupBox3.Controls.Add(Me.Label3)
@@ -256,23 +256,26 @@ Partial Class frmMain
         Me.GroupBox3.TabIndex = 2
         Me.GroupBox3.TabStop = False
         '
-        'Label3
+        'TotalTextBox
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(8, 19)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(50, 13)
-        Me.Label3.TabIndex = 0
-        Me.Label3.Text = "SubTotal"
+        Me.TotalTextBox.Location = New System.Drawing.Point(116, 63)
+        Me.TotalTextBox.Name = "TotalTextBox"
+        Me.TotalTextBox.Size = New System.Drawing.Size(100, 20)
+        Me.TotalTextBox.TabIndex = 5
         '
-        'Label4
+        'TaxTextBox
         '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(8, 43)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(83, 13)
-        Me.Label4.TabIndex = 1
-        Me.Label4.Text = "Tax (If Takeout)"
+        Me.TaxTextBox.Location = New System.Drawing.Point(116, 40)
+        Me.TaxTextBox.Name = "TaxTextBox"
+        Me.TaxTextBox.Size = New System.Drawing.Size(100, 20)
+        Me.TaxTextBox.TabIndex = 4
+        '
+        'SubTotalTextBox
+        '
+        Me.SubTotalTextBox.Location = New System.Drawing.Point(116, 16)
+        Me.SubTotalTextBox.Name = "SubTotalTextBox"
+        Me.SubTotalTextBox.Size = New System.Drawing.Size(100, 20)
+        Me.SubTotalTextBox.TabIndex = 3
         '
         'Label5
         '
@@ -283,26 +286,23 @@ Partial Class frmMain
         Me.Label5.TabIndex = 2
         Me.Label5.Text = "Total"
         '
-        'TextBox3
+        'Label4
         '
-        Me.TextBox3.Location = New System.Drawing.Point(116, 16)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox3.TabIndex = 3
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(8, 43)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(83, 13)
+        Me.Label4.TabIndex = 1
+        Me.Label4.Text = "Tax (If Takeout)"
         '
-        'TextBox4
+        'Label3
         '
-        Me.TextBox4.Location = New System.Drawing.Point(116, 40)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox4.TabIndex = 4
-        '
-        'TextBox5
-        '
-        Me.TextBox5.Location = New System.Drawing.Point(116, 63)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox5.TabIndex = 5
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(8, 19)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(50, 13)
+        Me.Label3.TabIndex = 0
+        Me.Label3.Text = "SubTotal"
         '
         'frmMain
         '
@@ -335,12 +335,12 @@ Partial Class frmMain
     Friend WithEvents EditToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ClearAllToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents GroupBox1 As GroupBox
-    Friend WithEvents Button2 As Button
-    Friend WithEvents Button1 As Button
-    Friend WithEvents CheckBox1 As CheckBox
-    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents ClearButton As Button
+    Friend WithEvents CalculateButton As Button
+    Friend WithEvents TaxCheckBox As CheckBox
+    Friend WithEvents ItemAmountTextBox As TextBox
     Friend WithEvents Label2 As Label
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents QuantityTextBox As TextBox
     Friend WithEvents Label1 As Label
     Friend WithEvents GroupBox2 As GroupBox
     Friend WithEvents RadioButton5 As RadioButton
@@ -350,9 +350,9 @@ Partial Class frmMain
     Friend WithEvents RadioButton1 As RadioButton
     Friend WithEvents GroupBox3 As GroupBox
     Friend WithEvents Label3 As Label
-    Friend WithEvents TextBox5 As TextBox
-    Friend WithEvents TextBox4 As TextBox
-    Friend WithEvents TextBox3 As TextBox
+    Friend WithEvents TotalTextBox As TextBox
+    Friend WithEvents TaxTextBox As TextBox
+    Friend WithEvents SubTotalTextBox As TextBox
     Friend WithEvents Label5 As Label
     Friend WithEvents Label4 As Label
 End Class
