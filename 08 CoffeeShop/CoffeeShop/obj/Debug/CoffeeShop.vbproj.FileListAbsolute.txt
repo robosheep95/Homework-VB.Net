@@ -25,3 +25,4 @@ C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\C
 C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.xml
 C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
 C:\Users\scafe\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.SummaryForm.resources
+C:\Users\tds2\Source\Repos\Homework-VB.Net\08 CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.SummaryForm.resources

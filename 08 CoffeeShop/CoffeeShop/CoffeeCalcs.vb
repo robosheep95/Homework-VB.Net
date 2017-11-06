@@ -1,4 +1,7 @@
-﻿Public Class CoffeeCalcs
+﻿''' <summary>
+''' Calculations for the coffee shop
+''' </summary>
+Public Class CoffeeCalcs
     Private coffeePrice As Double()
     Private taxPercentage As Double
     Private PurchaseList As List(Of Double)
@@ -20,7 +23,7 @@
             tax = 0.0
         End If
         Dim total As Double = subTotal + tax
-        PurchaseList.add(total)
+        PurchaseList.Add(total)
         Return ({subTotal, tax, total})
     End Function
     Public Function GetSummary() As Double()
